@@ -92,7 +92,7 @@ HTML • CSS • JavaScript • Educational UI
 https://artzzywebdevelopment.netlify.app
 
 💻 GitHub
-https://github.com/
+https://github.com/arTzz488
 
 ---
 
