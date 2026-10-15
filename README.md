@@ -2,15 +2,6 @@
 
 Software Engineering Student • Web Developer
 
-
-<div align="center">
-
-<img src="./artzzy-pixel-idle.gif"
-     width="120"
-     alt="arTzzy pixel mascot">
-
-</div>
-
 I build modern, responsive websites and continuously learn software engineering, backend development, and modern web technologies.
 
 «Building today. Engineering tomorrow.»
@@ -123,8 +114,6 @@ I believe the best way to learn software engineering is by building real project
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=1687FF&center=true&vCenter=true&width=400&lines=Building+cool+projects;Learning+Software+Engineering;Turning+ideas+into+code" alt="Typing animation" />
 </p>
 
-<!-- Pixel mascot: replace the GIF URL after uploading the asset -->
-<img src="./artzzy-pixel-idle.gif" width="180" alt="arTzzy pixel mascot idle animation" />
 
 **Learn. Build. Improve. Repeat.**
 
