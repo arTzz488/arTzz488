@@ -104,6 +104,57 @@ I believe the best way to learn software engineering is by building real project
 
 ---
 
+<div align="center">
+
+# arTzzy
+
+### `Software Developer in Progress`
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=1687FF&center=true&vCenter=true&width=400&lines=Building+cool+projects;Learning+Software+Engineering;Turning+ideas+into+code" alt="Typing animation" />
+</p>
+
+<!-- Pixel mascot: replace the GIF URL after uploading the asset -->
+<img src="./artzzy-pixel-idle.gif" width="180" alt="arTzzy pixel mascot idle animation" />
+
+**Learn. Build. Improve. Repeat.**
+
+</div>
+
+---
+
+### About Me
+
+- Learning software engineering step by step.
+- Building websites and small applications.
+- Exploring Python, JavaScript, HTML, and CSS.
+- Turning ideas into practical projects.
+
+### Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+
+### Featured Project
+
+- [Education Archive](https://archive01romawi.netlify.app) — a learning and educational archive.
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arTzz488&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p>
+
+---
+
+<div align="center">
+
+`Thanks for visiting my profile.`
+
+</div>
+
 <p align="center">
   <b>© 2026 arTzzy</b>
   <br>
