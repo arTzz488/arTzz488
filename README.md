@@ -2,6 +2,15 @@
 
 Software Engineering Student • Web Developer
 
+
+<div align="center">
+
+<img src="./artzzy-pixel-idle.gif"
+     width="120"
+     alt="arTzzy pixel mascot">
+
+</div>
+
 I build modern, responsive websites and continuously learn software engineering, backend development, and modern web technologies.
 
 «Building today. Engineering tomorrow.»
